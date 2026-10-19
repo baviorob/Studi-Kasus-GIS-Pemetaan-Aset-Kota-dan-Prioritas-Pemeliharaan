@@ -1,0 +1,501 @@
+asset_id,nama_aset,jenis_aset,latitude,longitude,tahun_pemasangan,usia_aset_tahun,status_keluhan,status_kondisi,tanggal_laporan,biaya_estimasi_rp,urutan_prioritas
+AST-0001,Pohon 001,Pohon,-3.864055,102.257754,2021,5,Tidak Ada,Baik,2025-08-07,0,3
+AST-0002,Lampu Jalan 002,Lampu Jalan,-3.792356,102.181337,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-10,11404134,2
+AST-0003,Jalan 003,Jalan,-3.785861,102.247743,1999,27,Tidak Ada,Baik,2026-09-09,0,3
+AST-0004,Taman 004,Taman,-3.761242,102.25403,1999,27,Kerusakan Ringan,Perlu Pemeriksaan,2026-09-22,3369911,2
+AST-0005,Taman 005,Taman,-3.851769,102.174129,2022,4,Kerusakan Berat,Prioritas Tinggi,2025-03-14,2276151,0
+AST-0006,Drainase 006,Drainase,-3.782863,102.201823,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-27,9005013,2
+AST-0007,Lapangan Bermain 007,Lapangan Bermain,-3.805644,102.245096,1991,35,Tidak Ada,Baik,2026-01-17,0,3
+AST-0008,Pohon 008,Pohon,-3.733127,102.373017,2014,12,Tidak Ada,Baik,2025-08-26,0,3
+AST-0009,Lampu Jalan 009,Lampu Jalan,-3.833424,102.195663,1997,29,Tidak Ada,Baik,2025-10-22,0,3
+AST-0010,Taman 010,Taman,-3.849951,102.271228,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-24,5097218,2
+AST-0011,Lapangan Bermain 011,Lapangan Bermain,-3.77749,102.220323,1995,31,Tidak Ada,Baik,2026-08-04,0,3
+AST-0012,Lapangan Bermain 012,Lapangan Bermain,-3.838512,102.246248,1995,31,Tidak Ada,Baik,2025-10-12,0,3
+AST-0013,Lampu Jalan 013,Lampu Jalan,-3.858243,102.314259,2018,8,Kerusakan Sedang,Perlu Perbaikan,2026-07-18,6999845,1
+AST-0014,Drainase 014,Drainase,-3.759047,102.280524,1993,33,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-11,10767299,2
+AST-0015,Jalan 015,Jalan,-3.780633,102.286289,2009,17,Kerusakan Sedang,Perlu Perbaikan,2025-01-19,7402443,1
+AST-0016,Drainase 016,Drainase,-3.940014,102.289438,2011,15,Tidak Ada,Baik,2025-09-04,0,3
+AST-0017,Jalan 017,Jalan,-3.841444,102.293775,2025,1,Tidak Ada,Baik,2025-09-18,0,3
+AST-0018,Taman 018,Taman,-3.849862,102.156922,1995,31,Kerusakan Ringan,Perlu Pemeriksaan,2025-07-02,2756890,2
+AST-0019,Taman 019,Taman,-3.771004,102.284302,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-16,10249625,2
+AST-0020,Pohon 020,Pohon,-3.733735,102.260746,1999,27,Tidak Ada,Baik,2025-05-25,0,3
+AST-0021,Jalan 021,Jalan,-3.707385,102.284873,1992,34,Kerusakan Sedang,Perlu Perbaikan,2025-09-27,6314327,1
+AST-0022,Jalan 022,Jalan,-3.768224,102.306819,2018,8,Kerusakan Berat,Prioritas Tinggi,2026-03-25,9594448,0
+AST-0023,Lampu Jalan 023,Lampu Jalan,-3.849321,102.285783,2025,1,Kerusakan Sedang,Perlu Perbaikan,2026-03-17,10512407,1
+AST-0024,Pohon 024,Pohon,-3.850907,102.29952,2006,20,Kerusakan Sedang,Perlu Perbaikan,2025-02-03,7171600,1
+AST-0025,Jalan 025,Jalan,-3.842873,102.206427,1994,32,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-09,9527827,2
+AST-0026,Taman 026,Taman,-3.777977,102.28739,2016,10,Tidak Ada,Baik,2026-09-16,0,3
+AST-0027,Pohon 027,Pohon,-3.743056,102.259537,2002,24,Kerusakan Sedang,Perlu Perbaikan,2026-03-08,8472937,1
+AST-0028,Lampu Jalan 028,Lampu Jalan,-3.886299,102.260675,2018,8,Kerusakan Sedang,Perlu Perbaikan,2025-12-24,5990587,1
+AST-0029,Jalan 029,Jalan,-3.772584,102.330007,2014,12,Tidak Ada,Baik,2025-06-29,0,3
+AST-0030,Taman 030,Taman,-3.758246,102.240566,2008,18,Kerusakan Berat,Prioritas Tinggi,2025-02-01,11080959,0
+AST-0031,Pohon 031,Pohon,-3.785781,102.23167,2008,18,Kerusakan Berat,Prioritas Tinggi,2026-04-04,10023107,0
+AST-0032,Perpustakaan 032,Perpustakaan,-3.65437,102.199322,2004,22,Tidak Ada,Baik,2025-06-03,0,3
+AST-0033,Drainase 033,Drainase,-3.775914,102.25022,2022,4,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-25,8242650,2
+AST-0034,Lampu Jalan 034,Lampu Jalan,-3.798538,102.318534,2025,1,Kerusakan Ringan,Perlu Pemeriksaan,2025-11-13,4945302,2
+AST-0035,Taman 035,Taman,-3.772527,102.181611,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-30,8993456,2
+AST-0036,Lapangan Bermain 036,Lapangan Bermain,-3.824488,102.277561,2015,11,Tidak Ada,Baik,2025-05-11,0,3
+AST-0037,Jalan 037,Jalan,-3.849467,102.138362,2000,26,Tidak Ada,Baik,2025-07-17,0,3
+AST-0038,Jalan 038,Jalan,-3.781002,102.230487,2012,14,Kerusakan Berat,Prioritas Tinggi,2026-09-15,3374895,0
+AST-0039,Lapangan Bermain 039,Lapangan Bermain,-3.748087,102.286875,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2026-02-14,4860672,2
+AST-0040,Taman 040,Taman,-3.810572,102.238072,2018,8,Kerusakan Berat,Prioritas Tinggi,2025-12-07,11213649,0
+AST-0041,Lampu Jalan 041,Lampu Jalan,-3.758343,102.204898,2025,1,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-05,7933125,2
+AST-0042,Taman 042,Taman,-3.81691,102.246588,2000,26,Tidak Ada,Baik,2025-08-31,0,3
+AST-0043,Taman 043,Taman,-3.726587,102.314455,2008,18,Kerusakan Sedang,Perlu Perbaikan,2025-08-02,990627,1
+AST-0044,Lampu Jalan 044,Lampu Jalan,-3.790334,102.339597,2018,8,Tidak Ada,Baik,2026-05-24,0,3
+AST-0045,Pohon 045,Pohon,-3.775956,102.340611,2003,23,Kerusakan Berat,Prioritas Tinggi,2025-08-27,6154524,0
+AST-0046,Jalan 046,Jalan,-3.765523,102.299114,2005,21,Tidak Ada,Baik,2025-11-01,0,3
+AST-0047,Lampu Jalan 047,Lampu Jalan,-3.860844,102.283029,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-19,6547875,2
+AST-0048,Pohon 048,Pohon,-3.808196,102.314292,1997,29,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-08,5640105,2
+AST-0049,Drainase 049,Drainase,-3.717176,102.207181,1994,32,Tidak Ada,Baik,2026-04-21,0,3
+AST-0050,Jalan 050,Jalan,-3.798358,102.21654,1993,33,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-30,7209507,2
+AST-0051,Lampu Jalan 051,Lampu Jalan,-3.736883,102.329578,2014,12,Tidak Ada,Baik,2026-07-01,0,3
+AST-0052,Taman 052,Taman,-3.760216,102.307814,2019,7,Tidak Ada,Baik,2025-08-05,0,3
+AST-0053,Jalan 053,Jalan,-3.882248,102.308754,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2025-01-03,8783324,2
+AST-0054,Jalan 054,Jalan,-3.768168,102.276091,2018,8,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-15,5390178,2
+AST-0055,Jalan 055,Jalan,-3.848973,102.22375,2009,17,Tidak Ada,Baik,2025-04-26,0,3
+AST-0056,Lampu Jalan 056,Lampu Jalan,-3.788245,102.210995,2016,10,Tidak Ada,Baik,2025-10-25,0,3
+AST-0057,Jalan 057,Jalan,-3.818702,102.311902,1993,33,Tidak Ada,Baik,2026-08-06,0,3
+AST-0058,Jalan 058,Jalan,-3.799021,102.319141,2014,12,Tidak Ada,Baik,2025-09-09,0,3
+AST-0059,Pohon 059,Pohon,-3.80319,102.208976,2008,18,Kerusakan Sedang,Perlu Perbaikan,2026-01-17,11187615,1
+AST-0060,Drainase 060,Drainase,-3.78908,102.228024,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-03,4391121,2
+AST-0061,Jalan 061,Jalan,-3.820174,102.259855,2017,9,Tidak Ada,Baik,2026-08-27,0,3
+AST-0062,Taman 062,Taman,-3.860794,102.308732,2001,25,Tidak Ada,Baik,2025-10-27,0,3
+AST-0063,Jalan 063,Jalan,-3.845448,102.247973,2013,13,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-05,6745828,2
+AST-0064,Pohon 064,Pohon,-3.758769,102.222389,2009,17,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-18,6939239,2
+AST-0065,Lapangan Bermain 065,Lapangan Bermain,-3.722398,102.314421,1995,31,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-10,9301690,2
+AST-0066,Lapangan Bermain 066,Lapangan Bermain,-3.789534,102.294864,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2025-11-02,3785397,2
+AST-0067,Pohon 067,Pohon,-3.762097,102.230287,2020,6,Tidak Ada,Baik,2026-02-16,0,3
+AST-0068,Taman 068,Taman,-3.756042,102.232032,2018,8,Tidak Ada,Baik,2026-06-28,0,3
+AST-0069,Drainase 069,Drainase,-3.861462,102.320499,2019,7,Tidak Ada,Baik,2025-05-12,0,3
+AST-0070,Taman 070,Taman,-3.884269,102.200956,2017,9,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-17,2558494,2
+AST-0071,Jalan 071,Jalan,-3.802307,102.250356,2024,2,Tidak Ada,Baik,2025-06-29,0,3
+AST-0072,Jalan 072,Jalan,-3.885154,102.287465,1998,28,Kerusakan Sedang,Perlu Perbaikan,2025-11-12,10959928,1
+AST-0073,Drainase 073,Drainase,-3.812262,102.273219,2003,23,Kerusakan Sedang,Perlu Perbaikan,2025-09-20,3697350,1
+AST-0074,Lapangan Bermain 074,Lapangan Bermain,-3.86652,102.311471,2021,5,Tidak Ada,Baik,2025-04-07,0,3
+AST-0075,Perpustakaan 075,Perpustakaan,-3.828082,102.179449,1998,28,Tidak Ada,Baik,2026-04-28,0,3
+AST-0076,Lampu Jalan 076,Lampu Jalan,-3.833803,102.26588,2022,4,Kerusakan Sedang,Perlu Perbaikan,2025-12-28,8708628,1
+AST-0077,Pohon 077,Pohon,-3.7766,102.280058,2019,7,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-13,5904223,2
+AST-0078,Lapangan Bermain 078,Lapangan Bermain,-3.829126,102.28168,2003,23,Kerusakan Sedang,Perlu Perbaikan,2025-02-03,3335761,1
+AST-0079,Pohon 079,Pohon,-3.851649,102.293846,1997,29,Tidak Ada,Baik,2025-12-28,0,3
+AST-0080,Taman 080,Taman,-3.797804,102.206657,2023,3,Kerusakan Ringan,Perlu Pemeriksaan,2026-01-11,2147994,2
+AST-0081,Taman 081,Taman,-3.666477,102.337257,2025,1,Tidak Ada,Baik,2025-11-07,0,3
+AST-0082,Lampu Jalan 082,Lampu Jalan,-3.777825,102.287702,2001,25,Tidak Ada,Baik,2025-06-27,0,3
+AST-0083,Jalan 083,Jalan,-3.887522,102.293032,1996,30,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-29,10988578,2
+AST-0084,Pohon 084,Pohon,-3.795891,102.236157,2019,7,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-02,863837,2
+AST-0085,Pohon 085,Pohon,-3.684301,102.274038,2002,24,Kerusakan Sedang,Perlu Perbaikan,2026-09-29,10892290,1
+AST-0086,Lampu Jalan 086,Lampu Jalan,-3.792389,102.331523,2003,23,Tidak Ada,Baik,2026-03-06,0,3
+AST-0087,Jalan 087,Jalan,-3.74237,102.264241,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2025-11-16,7130366,2
+AST-0088,Lampu Jalan 088,Lampu Jalan,-3.750045,102.274768,2013,13,Tidak Ada,Baik,2025-05-15,0,3
+AST-0089,Jalan 089,Jalan,-3.746523,102.280836,2025,1,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-11,2663171,2
+AST-0090,Perpustakaan 090,Perpustakaan,-3.752714,102.183347,2023,3,Kerusakan Ringan,Perlu Pemeriksaan,2026-01-15,4403853,2
+AST-0091,Lapangan Bermain 091,Lapangan Bermain,-3.787281,102.256372,2017,9,Tidak Ada,Baik,2025-01-05,0,3
+AST-0092,Pohon 092,Pohon,-3.808294,102.299651,2001,25,Kerusakan Berat,Prioritas Tinggi,2025-11-04,7249151,0
+AST-0093,Lapangan Bermain 093,Lapangan Bermain,-3.812535,102.240573,2005,21,Kerusakan Sedang,Perlu Perbaikan,2026-05-02,6596737,1
+AST-0094,Drainase 094,Drainase,-3.794588,102.262892,2025,1,Kerusakan Sedang,Perlu Perbaikan,2025-05-06,4617951,1
+AST-0095,Lampu Jalan 095,Lampu Jalan,-3.780783,102.263363,1991,35,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-23,3084886,2
+AST-0096,Lampu Jalan 096,Lampu Jalan,-3.857405,102.186003,1999,27,Tidak Ada,Baik,2026-08-21,0,3
+AST-0097,Jalan 097,Jalan,-3.812621,102.305215,2025,1,Kerusakan Sedang,Perlu Perbaikan,2025-02-18,3573675,1
+AST-0098,Lapangan Bermain 098,Lapangan Bermain,-3.801825,102.197298,1994,32,Kerusakan Berat,Prioritas Tinggi,2026-07-31,778609,0
+AST-0099,Pohon 099,Pohon,-3.795146,102.286133,1991,35,Kerusakan Sedang,Perlu Perbaikan,2025-03-25,8031589,1
+AST-0100,Lampu Jalan 100,Lampu Jalan,-3.813936,102.25832,2018,8,Tidak Ada,Baik,2025-09-02,0,3
+AST-0101,Drainase 101,Drainase,-3.763712,102.247944,2010,16,Kerusakan Sedang,Perlu Perbaikan,2025-02-06,1606470,1
+AST-0102,Pohon 102,Pohon,-3.80468,102.268339,2009,17,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-09,3218933,2
+AST-0103,Lampu Jalan 103,Lampu Jalan,-3.816895,102.302684,2003,23,Tidak Ada,Baik,2025-10-02,0,3
+AST-0104,Jalan 104,Jalan,-3.855659,102.305673,2000,26,Tidak Ada,Baik,2025-11-12,0,3
+AST-0105,Drainase 105,Drainase,-3.834983,102.243483,2001,25,Kerusakan Berat,Prioritas Tinggi,2025-12-29,8993817,0
+AST-0106,Pohon 106,Pohon,-3.789667,102.256777,2015,11,Kerusakan Ringan,Perlu Pemeriksaan,2025-02-20,11246100,2
+AST-0107,Lampu Jalan 107,Lampu Jalan,-3.794637,102.222029,2015,11,Kerusakan Sedang,Perlu Perbaikan,2025-04-01,558145,1
+AST-0108,Perpustakaan 108,Perpustakaan,-3.891742,102.191925,2005,21,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-30,6317869,2
+AST-0109,Lampu Jalan 109,Lampu Jalan,-3.758406,102.312547,2017,9,Tidak Ada,Baik,2026-01-03,0,3
+AST-0110,Taman 110,Taman,-3.831617,102.210137,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2025-02-03,945605,2
+AST-0111,Lampu Jalan 111,Lampu Jalan,-3.840587,102.228235,2010,16,Tidak Ada,Baik,2025-04-16,0,3
+AST-0112,Taman 112,Taman,-3.749838,102.28397,2014,12,Tidak Ada,Baik,2025-04-10,0,3
+AST-0113,Lampu Jalan 113,Lampu Jalan,-3.747649,102.197615,1999,27,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-09,5283045,2
+AST-0114,Pohon 114,Pohon,-3.832013,102.289005,2015,11,Kerusakan Ringan,Perlu Pemeriksaan,2026-05-19,1805701,2
+AST-0115,Taman 115,Taman,-3.816003,102.222813,1991,35,Tidak Ada,Baik,2025-04-05,0,3
+AST-0116,Pohon 116,Pohon,-3.855082,102.208179,2002,24,Tidak Ada,Baik,2026-02-22,0,3
+AST-0117,Pohon 117,Pohon,-3.76336,102.235967,1999,27,Kerusakan Sedang,Perlu Perbaikan,2026-03-13,2004450,1
+AST-0118,Jalan 118,Jalan,-3.75929,102.222447,2004,22,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-26,3420434,2
+AST-0119,Pohon 119,Pohon,-3.819747,102.276803,1993,33,Tidak Ada,Baik,2026-03-14,0,3
+AST-0120,Jalan 120,Jalan,-3.737374,102.335907,2002,24,Kerusakan Sedang,Perlu Perbaikan,2026-08-02,1630155,1
+AST-0121,Lampu Jalan 121,Lampu Jalan,-3.758664,102.298703,1993,33,Tidak Ada,Baik,2025-04-25,0,3
+AST-0122,Perpustakaan 122,Perpustakaan,-3.805567,102.288247,1995,31,Kerusakan Sedang,Perlu Perbaikan,2026-09-20,7399583,1
+AST-0123,Taman 123,Taman,-3.767529,102.234234,2000,26,Kerusakan Sedang,Perlu Perbaikan,2025-10-12,2464296,1
+AST-0124,Taman 124,Taman,-3.87446,102.252943,1993,33,Tidak Ada,Baik,2026-01-23,0,3
+AST-0125,Taman 125,Taman,-3.811826,102.269618,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-04,751994,2
+AST-0126,Pohon 126,Pohon,-3.788675,102.261206,2022,4,Kerusakan Sedang,Perlu Perbaikan,2026-01-02,3008046,1
+AST-0127,Lampu Jalan 127,Lampu Jalan,-3.800469,102.27123,2001,25,Kerusakan Berat,Prioritas Tinggi,2026-01-12,2929316,0
+AST-0128,Drainase 128,Drainase,-3.707752,102.203911,2003,23,Kerusakan Ringan,Perlu Pemeriksaan,2025-01-10,7399697,2
+AST-0129,Jalan 129,Jalan,-3.786026,102.351971,2022,4,Kerusakan Ringan,Perlu Pemeriksaan,2025-04-11,9966799,2
+AST-0130,Jalan 130,Jalan,-3.783509,102.196461,2014,12,Kerusakan Berat,Prioritas Tinggi,2025-10-30,6806487,0
+AST-0131,Lapangan Bermain 131,Lapangan Bermain,-3.85976,102.255752,2003,23,Tidak Ada,Baik,2026-08-01,0,3
+AST-0132,Lampu Jalan 132,Lampu Jalan,-3.808437,102.304325,2014,12,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-29,994250,2
+AST-0133,Drainase 133,Drainase,-3.835258,102.225608,1994,32,Kerusakan Sedang,Perlu Perbaikan,2025-04-03,8098191,1
+AST-0134,Perpustakaan 134,Perpustakaan,-3.694306,102.315346,1997,29,Tidak Ada,Baik,2025-02-09,0,3
+AST-0135,Pohon 135,Pohon,-3.818703,102.192217,2017,9,Kerusakan Ringan,Perlu Pemeriksaan,2026-09-13,11011711,2
+AST-0136,Lampu Jalan 136,Lampu Jalan,-3.794642,102.225539,2007,19,Kerusakan Ringan,Perlu Pemeriksaan,2026-01-31,10993564,2
+AST-0137,Drainase 137,Drainase,-3.745289,102.145089,2009,17,Tidak Ada,Baik,2025-01-29,0,3
+AST-0138,Perpustakaan 138,Perpustakaan,-3.77045,102.314256,2010,16,Tidak Ada,Baik,2025-10-26,0,3
+AST-0139,Taman 139,Taman,-3.863509,102.202805,2002,24,Tidak Ada,Baik,2026-02-06,0,3
+AST-0140,Lampu Jalan 140,Lampu Jalan,-3.771267,102.227798,2019,7,Kerusakan Sedang,Perlu Perbaikan,2026-09-13,11214423,1
+AST-0141,Lampu Jalan 141,Lampu Jalan,-3.768036,102.300602,2011,15,Kerusakan Sedang,Perlu Perbaikan,2026-09-07,1990908,1
+AST-0142,Jalan 142,Jalan,-3.808174,102.279412,2000,26,Tidak Ada,Baik,2026-08-12,0,3
+AST-0143,Pohon 143,Pohon,-3.779107,102.315347,2016,10,Kerusakan Sedang,Perlu Perbaikan,2025-09-23,2853805,1
+AST-0144,Taman 144,Taman,-3.795287,102.294453,1995,31,Tidak Ada,Baik,2025-10-02,0,3
+AST-0145,Lapangan Bermain 145,Lapangan Bermain,-3.862342,102.306595,2024,2,Tidak Ada,Baik,2026-02-23,0,3
+AST-0146,Pohon 146,Pohon,-3.825357,102.237971,2002,24,Tidak Ada,Baik,2026-09-28,0,3
+AST-0147,Pohon 147,Pohon,-3.799068,102.25768,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2025-01-06,8241767,2
+AST-0148,Taman 148,Taman,-3.82639,102.298875,2000,26,Kerusakan Sedang,Perlu Perbaikan,2025-09-15,4698535,1
+AST-0149,Pohon 149,Pohon,-3.775743,102.299539,2003,23,Kerusakan Ringan,Perlu Pemeriksaan,2025-08-15,5900507,2
+AST-0150,Taman 150,Taman,-3.754911,102.309188,2022,4,Tidak Ada,Baik,2026-08-09,0,3
+AST-0151,Lapangan Bermain 151,Lapangan Bermain,-3.787696,102.2236,2014,12,Tidak Ada,Baik,2025-03-12,0,3
+AST-0152,Taman 152,Taman,-3.816771,102.207073,2014,12,Kerusakan Sedang,Perlu Perbaikan,2025-05-26,7350710,1
+AST-0153,Lampu Jalan 153,Lampu Jalan,-3.738672,102.199133,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-12,9011048,2
+AST-0154,Pohon 154,Pohon,-3.793811,102.238202,2009,17,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-16,10616752,2
+AST-0155,Lampu Jalan 155,Lampu Jalan,-3.784091,102.256804,2012,14,Tidak Ada,Baik,2025-01-16,0,3
+AST-0156,Pohon 156,Pohon,-3.834355,102.202195,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-25,252470,2
+AST-0157,Drainase 157,Drainase,-3.809794,102.25265,2019,7,Tidak Ada,Baik,2025-11-10,0,3
+AST-0158,Jalan 158,Jalan,-3.755085,102.293414,2022,4,Tidak Ada,Baik,2025-01-12,0,3
+AST-0159,Pohon 159,Pohon,-3.766532,102.311287,2011,15,Tidak Ada,Baik,2026-05-11,0,3
+AST-0160,Drainase 160,Drainase,-3.808418,102.232477,2018,8,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-12,10912323,2
+AST-0161,Jalan 161,Jalan,-3.799629,102.29023,1991,35,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-28,5296170,2
+AST-0162,Jalan 162,Jalan,-3.791046,102.198019,1992,34,Tidak Ada,Baik,2026-09-20,0,3
+AST-0163,Taman 163,Taman,-3.842353,102.22883,2006,20,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-25,5688692,2
+AST-0164,Drainase 164,Drainase,-3.80834,102.267157,2020,6,Tidak Ada,Baik,2026-07-30,0,3
+AST-0165,Taman 165,Taman,-3.82302,102.229545,1997,29,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-29,3759628,2
+AST-0166,Pohon 166,Pohon,-3.862359,102.222893,2000,26,Kerusakan Sedang,Perlu Perbaikan,2026-03-28,3005963,1
+AST-0167,Lapangan Bermain 167,Lapangan Bermain,-3.793152,102.275237,2004,22,Kerusakan Ringan,Perlu Pemeriksaan,2026-05-29,2177180,2
+AST-0168,Pohon 168,Pohon,-3.806471,102.212262,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2026-05-01,1872334,2
+AST-0169,Pohon 169,Pohon,-3.865871,102.267354,2001,25,Tidak Ada,Baik,2025-12-09,0,3
+AST-0170,Jalan 170,Jalan,-3.835775,102.256447,1995,31,Tidak Ada,Baik,2026-01-07,0,3
+AST-0171,Pohon 171,Pohon,-3.803919,102.287224,2019,7,Kerusakan Sedang,Perlu Perbaikan,2026-04-25,710467,1
+AST-0172,Taman 172,Taman,-3.930097,102.299516,2023,3,Tidak Ada,Baik,2025-01-12,0,3
+AST-0173,Jalan 173,Jalan,-3.79172,102.26843,2012,14,Kerusakan Ringan,Perlu Pemeriksaan,2026-09-30,750839,2
+AST-0174,Lapangan Bermain 174,Lapangan Bermain,-3.787997,102.236909,2000,26,Tidak Ada,Baik,2026-05-04,0,3
+AST-0175,Lapangan Bermain 175,Lapangan Bermain,-3.7708,102.312126,2009,17,Tidak Ada,Baik,2026-08-25,0,3
+AST-0176,Pohon 176,Pohon,-3.826788,102.271559,1992,34,Kerusakan Sedang,Perlu Perbaikan,2026-01-27,9875201,1
+AST-0177,Perpustakaan 177,Perpustakaan,-3.864024,102.217702,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2026-02-01,4885975,2
+AST-0178,Pohon 178,Pohon,-3.771727,102.270319,2001,25,Tidak Ada,Baik,2026-08-19,0,3
+AST-0179,Drainase 179,Drainase,-3.861874,102.231061,2002,24,Kerusakan Berat,Prioritas Tinggi,2025-10-07,6188535,0
+AST-0180,Taman 180,Taman,-3.775657,102.135429,2013,13,Kerusakan Sedang,Perlu Perbaikan,2025-04-29,6086377,1
+AST-0181,Drainase 181,Drainase,-3.830407,102.213729,2000,26,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-19,3769225,2
+AST-0182,Drainase 182,Drainase,-3.845548,102.242725,1992,34,Tidak Ada,Baik,2026-08-18,0,3
+AST-0183,Perpustakaan 183,Perpustakaan,-3.786755,102.238772,1996,30,Tidak Ada,Baik,2025-06-05,0,3
+AST-0184,Lapangan Bermain 184,Lapangan Bermain,-3.749499,102.184755,1997,29,Tidak Ada,Baik,2025-04-14,0,3
+AST-0185,Taman 185,Taman,-3.807062,102.244177,2005,21,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-29,4417840,2
+AST-0186,Lampu Jalan 186,Lampu Jalan,-3.811058,102.282997,2002,24,Tidak Ada,Baik,2025-02-11,0,3
+AST-0187,Drainase 187,Drainase,-3.875983,102.204663,2001,25,Kerusakan Sedang,Perlu Perbaikan,2026-01-30,1605507,1
+AST-0188,Pohon 188,Pohon,-3.762596,102.274485,2016,10,Kerusakan Berat,Prioritas Tinggi,2026-02-08,255132,0
+AST-0189,Lampu Jalan 189,Lampu Jalan,-3.796721,102.160319,1994,32,Kerusakan Sedang,Perlu Perbaikan,2025-08-16,5226163,1
+AST-0190,Taman 190,Taman,-3.812226,102.286902,1999,27,Tidak Ada,Baik,2025-07-26,0,3
+AST-0191,Pohon 191,Pohon,-3.741123,102.23332,2009,17,Tidak Ada,Baik,2025-05-06,0,3
+AST-0192,Jalan 192,Jalan,-3.870534,102.194629,1994,32,Tidak Ada,Baik,2025-12-06,0,3
+AST-0193,Jalan 193,Jalan,-3.822708,102.317031,2006,20,Kerusakan Ringan,Perlu Pemeriksaan,2025-01-11,6182208,2
+AST-0194,Jalan 194,Jalan,-3.799782,102.28483,2003,23,Tidak Ada,Baik,2025-08-29,0,3
+AST-0195,Lampu Jalan 195,Lampu Jalan,-3.8133,102.309022,2015,11,Tidak Ada,Baik,2025-03-03,0,3
+AST-0196,Jalan 196,Jalan,-3.909646,102.277044,2012,14,Tidak Ada,Baik,2025-04-26,0,3
+AST-0197,Lapangan Bermain 197,Lapangan Bermain,-3.78428,102.278872,1993,33,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-06,5033472,2
+AST-0198,Pohon 198,Pohon,-3.801372,102.24234,1991,35,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-01,4672457,2
+AST-0199,Taman 199,Taman,-3.754516,102.282594,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-10,4271188,2
+AST-0200,Taman 200,Taman,-3.708206,102.257305,2023,3,Tidak Ada,Baik,2026-05-27,0,3
+AST-0201,Drainase 201,Drainase,-3.808455,102.229569,2017,9,Kerusakan Sedang,Perlu Perbaikan,2026-06-20,2297408,1
+AST-0202,Lampu Jalan 202,Lampu Jalan,-3.782699,102.252031,2014,12,Kerusakan Berat,Prioritas Tinggi,2025-07-02,10081885,0
+AST-0203,Pohon 203,Pohon,-3.788612,102.197797,2003,23,Kerusakan Berat,Prioritas Tinggi,2025-04-02,4380028,0
+AST-0204,Drainase 204,Drainase,-3.79236,102.260139,1992,34,Kerusakan Berat,Prioritas Tinggi,2025-08-02,6287295,0
+AST-0205,Drainase 205,Drainase,-3.806224,102.283366,2020,6,Kerusakan Sedang,Perlu Perbaikan,2026-02-25,7787955,1
+AST-0206,Drainase 206,Drainase,-3.782604,102.267618,2004,22,Kerusakan Sedang,Perlu Perbaikan,2026-05-04,6530320,1
+AST-0207,Pohon 207,Pohon,-3.749233,102.289698,2007,19,Tidak Ada,Baik,2026-05-27,0,3
+AST-0208,Pohon 208,Pohon,-3.838208,102.245915,2022,4,Kerusakan Berat,Prioritas Tinggi,2025-10-18,9428088,0
+AST-0209,Perpustakaan 209,Perpustakaan,-3.714458,102.263035,1995,31,Tidak Ada,Baik,2025-09-24,0,3
+AST-0210,Perpustakaan 210,Perpustakaan,-3.777217,102.262798,2006,20,Tidak Ada,Baik,2026-03-23,0,3
+AST-0211,Pohon 211,Pohon,-3.786366,102.35745,2017,9,Kerusakan Berat,Prioritas Tinggi,2026-03-31,5922298,0
+AST-0212,Jalan 212,Jalan,-3.901211,102.196618,1991,35,Kerusakan Berat,Prioritas Tinggi,2026-08-09,5347010,0
+AST-0213,Taman 213,Taman,-3.800478,102.361863,2025,1,Tidak Ada,Baik,2026-04-09,0,3
+AST-0214,Jalan 214,Jalan,-3.843915,102.225148,1993,33,Kerusakan Berat,Prioritas Tinggi,2026-06-18,2893769,0
+AST-0215,Pohon 215,Pohon,-3.774153,102.244722,2020,6,Tidak Ada,Baik,2025-11-07,0,3
+AST-0216,Taman 216,Taman,-3.756999,102.275245,2015,11,Tidak Ada,Baik,2026-01-17,0,3
+AST-0217,Taman 217,Taman,-3.748255,102.290258,2010,16,Tidak Ada,Baik,2025-05-23,0,3
+AST-0218,Lapangan Bermain 218,Lapangan Bermain,-3.807488,102.260117,2017,9,Kerusakan Ringan,Perlu Pemeriksaan,2026-05-18,5140938,2
+AST-0219,Lampu Jalan 219,Lampu Jalan,-3.803357,102.272504,2015,11,Tidak Ada,Baik,2026-02-23,0,3
+AST-0220,Pohon 220,Pohon,-3.78033,102.330658,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-04-29,3029806,2
+AST-0221,Jalan 221,Jalan,-3.894413,102.39062,2020,6,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-29,5666228,2
+AST-0222,Jalan 222,Jalan,-3.819519,102.281923,2018,8,Tidak Ada,Baik,2026-06-22,0,3
+AST-0223,Lampu Jalan 223,Lampu Jalan,-3.824425,102.296171,2021,5,Kerusakan Sedang,Perlu Perbaikan,2025-06-08,11341942,1
+AST-0224,Jalan 224,Jalan,-3.776563,102.256708,2019,7,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-14,6972888,2
+AST-0225,Jalan 225,Jalan,-3.820582,102.343964,2015,11,Tidak Ada,Baik,2025-09-27,0,3
+AST-0226,Taman 226,Taman,-3.766525,102.256041,2015,11,Tidak Ada,Baik,2026-02-16,0,3
+AST-0227,Jalan 227,Jalan,-3.808678,102.286904,1992,34,Kerusakan Sedang,Perlu Perbaikan,2026-01-24,7378679,1
+AST-0228,Lapangan Bermain 228,Lapangan Bermain,-3.761512,102.209914,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2025-04-24,11542011,2
+AST-0229,Jalan 229,Jalan,-3.700175,102.129912,2002,24,Kerusakan Berat,Prioritas Tinggi,2025-07-27,6614520,0
+AST-0230,Perpustakaan 230,Perpustakaan,-3.729889,102.374196,2007,19,Tidak Ada,Baik,2026-08-05,0,3
+AST-0231,Pohon 231,Pohon,-3.75738,102.314637,2004,22,Kerusakan Berat,Prioritas Tinggi,2026-06-12,337453,0
+AST-0232,Pohon 232,Pohon,-3.748487,102.307208,2018,8,Kerusakan Berat,Prioritas Tinggi,2025-03-04,1736747,0
+AST-0233,Perpustakaan 233,Perpustakaan,-3.816467,102.215689,2000,26,Kerusakan Berat,Prioritas Tinggi,2026-01-15,6765600,0
+AST-0234,Jalan 234,Jalan,-3.834678,102.181129,1996,30,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-27,8802499,2
+AST-0235,Jalan 235,Jalan,-3.838067,102.250075,2006,20,Kerusakan Sedang,Perlu Perbaikan,2026-08-29,4311408,1
+AST-0236,Taman 236,Taman,-3.791191,102.267677,2010,16,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-02,4586079,2
+AST-0237,Taman 237,Taman,-3.733697,102.297579,1993,33,Kerusakan Sedang,Perlu Perbaikan,2025-06-27,1929137,1
+AST-0238,Lampu Jalan 238,Lampu Jalan,-3.832822,102.262439,2020,6,Tidak Ada,Baik,2026-06-23,0,3
+AST-0239,Taman 239,Taman,-3.77891,102.325271,2003,23,Kerusakan Sedang,Perlu Perbaikan,2026-03-23,4968033,1
+AST-0240,Jalan 240,Jalan,-3.856124,102.279087,2004,22,Tidak Ada,Baik,2026-08-14,0,3
+AST-0241,Drainase 241,Drainase,-3.854736,102.277233,2009,17,Tidak Ada,Baik,2025-04-09,0,3
+AST-0242,Lapangan Bermain 242,Lapangan Bermain,-3.761407,102.319439,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-17,9949289,2
+AST-0243,Lapangan Bermain 243,Lapangan Bermain,-3.830903,102.228894,2022,4,Tidak Ada,Baik,2025-04-20,0,3
+AST-0244,Jalan 244,Jalan,-3.832194,102.280983,2025,1,Tidak Ada,Baik,2025-02-12,0,3
+AST-0245,Pohon 245,Pohon,-3.711105,102.234478,2008,18,Kerusakan Sedang,Perlu Perbaikan,2025-11-25,7272837,1
+AST-0246,Pohon 246,Pohon,-3.796898,102.228557,1998,28,Kerusakan Sedang,Perlu Perbaikan,2026-03-15,8473357,1
+AST-0247,Jalan 247,Jalan,-3.802002,102.336775,2005,21,Kerusakan Sedang,Perlu Perbaikan,2026-07-29,3042894,1
+AST-0248,Pohon 248,Pohon,-3.810332,102.316025,2015,11,Kerusakan Berat,Prioritas Tinggi,2025-10-25,4275844,0
+AST-0249,Pohon 249,Pohon,-3.78131,102.2885,2002,24,Tidak Ada,Baik,2025-10-29,0,3
+AST-0250,Pohon 250,Pohon,-3.831852,102.326754,2004,22,Kerusakan Sedang,Perlu Perbaikan,2025-12-18,3212964,1
+AST-0251,Lapangan Bermain 251,Lapangan Bermain,-3.797421,102.280606,2008,18,Tidak Ada,Baik,2025-12-22,0,3
+AST-0252,Pohon 252,Pohon,-3.751098,102.328982,2010,16,Kerusakan Ringan,Perlu Pemeriksaan,2025-07-18,3368933,2
+AST-0253,Pohon 253,Pohon,-3.814429,102.220245,2002,24,Tidak Ada,Baik,2026-08-30,0,3
+AST-0254,Lapangan Bermain 254,Lapangan Bermain,-3.907048,102.254895,1991,35,Tidak Ada,Baik,2026-06-11,0,3
+AST-0255,Lampu Jalan 255,Lampu Jalan,-3.829471,102.281092,2014,12,Kerusakan Sedang,Perlu Perbaikan,2025-05-10,7467969,1
+AST-0256,Drainase 256,Drainase,-3.765437,102.212408,2022,4,Kerusakan Sedang,Perlu Perbaikan,2026-09-08,5466259,1
+AST-0257,Taman 257,Taman,-3.74956,102.228985,1994,32,Tidak Ada,Baik,2026-06-21,0,3
+AST-0258,Lapangan Bermain 258,Lapangan Bermain,-3.783639,102.200878,1991,35,Kerusakan Sedang,Perlu Perbaikan,2026-02-17,6812374,1
+AST-0259,Lapangan Bermain 259,Lapangan Bermain,-3.735766,102.295753,1994,32,Tidak Ada,Baik,2026-05-03,0,3
+AST-0260,Jalan 260,Jalan,-3.846783,102.239383,2001,25,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-31,4083755,2
+AST-0261,Lapangan Bermain 261,Lapangan Bermain,-3.742451,102.275613,2007,19,Kerusakan Sedang,Perlu Perbaikan,2026-03-02,11127764,1
+AST-0262,Jalan 262,Jalan,-3.79056,102.288228,1991,35,Tidak Ada,Baik,2025-12-16,0,3
+AST-0263,Jalan 263,Jalan,-3.769581,102.254542,2007,19,Tidak Ada,Baik,2025-08-31,0,3
+AST-0264,Drainase 264,Drainase,-3.928719,102.263499,2019,7,Tidak Ada,Baik,2025-02-19,0,3
+AST-0265,Lampu Jalan 265,Lampu Jalan,-3.759838,102.269155,2009,17,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-07,7693115,2
+AST-0266,Pohon 266,Pohon,-3.789517,102.283381,2015,11,Tidak Ada,Baik,2025-09-17,0,3
+AST-0267,Jalan 267,Jalan,-3.714126,102.328648,2022,4,Kerusakan Ringan,Perlu Pemeriksaan,2026-09-11,3464293,2
+AST-0268,Pohon 268,Pohon,-3.791531,102.208155,2021,5,Kerusakan Sedang,Perlu Perbaikan,2026-08-19,1642168,1
+AST-0269,Perpustakaan 269,Perpustakaan,-3.843799,102.26684,2022,4,Tidak Ada,Baik,2025-09-03,0,3
+AST-0270,Jalan 270,Jalan,-3.836146,102.203247,1991,35,Tidak Ada,Baik,2026-05-30,0,3
+AST-0271,Pohon 271,Pohon,-3.781748,102.333851,1996,30,Tidak Ada,Baik,2025-09-24,0,3
+AST-0272,Lapangan Bermain 272,Lapangan Bermain,-3.786149,102.172139,2015,11,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-30,3071366,2
+AST-0273,Lapangan Bermain 273,Lapangan Bermain,-3.828536,102.270627,2017,9,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-15,7402291,2
+AST-0274,Drainase 274,Drainase,-3.848061,102.241872,2017,9,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-17,9911683,2
+AST-0275,Jalan 275,Jalan,-3.731779,102.234089,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-01,3673535,2
+AST-0276,Lampu Jalan 276,Lampu Jalan,-3.81074,102.297598,2006,20,Kerusakan Sedang,Perlu Perbaikan,2026-06-27,4315527,1
+AST-0277,Pohon 277,Pohon,-3.803083,102.288569,2004,22,Kerusakan Sedang,Perlu Perbaikan,2025-05-12,2800477,1
+AST-0278,Pohon 278,Pohon,-3.824001,102.215227,1995,31,Tidak Ada,Baik,2025-08-08,0,3
+AST-0279,Taman 279,Taman,-3.737073,102.285193,1996,30,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-22,11402304,2
+AST-0280,Jalan 280,Jalan,-3.749804,102.276534,2006,20,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-08,4909472,2
+AST-0281,Drainase 281,Drainase,-3.845974,102.22561,2017,9,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-11,4268796,2
+AST-0282,Pohon 282,Pohon,-3.803446,102.190516,2025,1,Tidak Ada,Baik,2025-10-09,0,3
+AST-0283,Pohon 283,Pohon,-3.841495,102.301298,2017,9,Tidak Ada,Baik,2025-12-06,0,3
+AST-0284,Lampu Jalan 284,Lampu Jalan,-3.716554,102.296541,2014,12,Kerusakan Sedang,Perlu Perbaikan,2025-09-20,9065321,1
+AST-0285,Perpustakaan 285,Perpustakaan,-3.780053,102.287781,2017,9,Tidak Ada,Baik,2025-12-19,0,3
+AST-0286,Perpustakaan 286,Perpustakaan,-3.81261,102.23626,2003,23,Kerusakan Ringan,Perlu Pemeriksaan,2026-02-07,6423197,2
+AST-0287,Drainase 287,Drainase,-3.815187,102.321887,2004,22,Kerusakan Berat,Prioritas Tinggi,2025-04-19,7735027,0
+AST-0288,Lapangan Bermain 288,Lapangan Bermain,-3.775512,102.431676,2009,17,Kerusakan Sedang,Perlu Perbaikan,2025-07-17,8049132,1
+AST-0289,Jalan 289,Jalan,-3.811071,102.270005,2005,21,Tidak Ada,Baik,2026-05-02,0,3
+AST-0290,Drainase 290,Drainase,-3.73058,102.288208,2018,8,Kerusakan Sedang,Perlu Perbaikan,2026-01-31,4878846,1
+AST-0291,Jalan 291,Jalan,-3.841679,102.221724,2015,11,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-08,6909963,2
+AST-0292,Taman 292,Taman,-3.855559,102.222148,2013,13,Kerusakan Sedang,Perlu Perbaikan,2025-03-16,4041498,1
+AST-0293,Lapangan Bermain 293,Lapangan Bermain,-3.736528,102.348511,2011,15,Tidak Ada,Baik,2025-12-05,0,3
+AST-0294,Jalan 294,Jalan,-3.819156,102.373948,2011,15,Kerusakan Berat,Prioritas Tinggi,2025-09-07,11251132,0
+AST-0295,Drainase 295,Drainase,-3.736106,102.249553,1991,35,Kerusakan Ringan,Perlu Pemeriksaan,2025-08-01,11414126,2
+AST-0296,Jalan 296,Jalan,-3.760406,102.229334,2025,1,Tidak Ada,Baik,2026-05-31,0,3
+AST-0297,Pohon 297,Pohon,-3.861114,102.21613,2009,17,Tidak Ada,Baik,2026-03-11,0,3
+AST-0298,Pohon 298,Pohon,-3.827428,102.23144,2004,22,Tidak Ada,Baik,2025-03-30,0,3
+AST-0299,Jalan 299,Jalan,-3.797781,102.264133,2025,1,Tidak Ada,Baik,2025-01-19,0,3
+AST-0300,Lampu Jalan 300,Lampu Jalan,-3.80992,102.199784,1996,30,Tidak Ada,Baik,2026-03-23,0,3
+AST-0301,Drainase 301,Drainase,-3.78637,102.226304,2011,15,Tidak Ada,Baik,2026-05-29,0,3
+AST-0302,Taman 302,Taman,-3.827562,102.308152,2020,6,Kerusakan Sedang,Perlu Perbaikan,2026-04-01,10170486,1
+AST-0303,Pohon 303,Pohon,-3.803822,102.252917,1994,32,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-18,11045706,2
+AST-0304,Jalan 304,Jalan,-3.754933,102.222413,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-18,10560029,2
+AST-0305,Pohon 305,Pohon,-3.740019,102.202873,2014,12,Kerusakan Ringan,Perlu Pemeriksaan,2025-11-16,2378793,2
+AST-0306,Taman 306,Taman,-3.835552,102.313969,2012,14,Kerusakan Berat,Prioritas Tinggi,2025-01-21,10979931,0
+AST-0307,Jalan 307,Jalan,-3.810439,102.208978,2024,2,Tidak Ada,Baik,2025-08-08,0,3
+AST-0308,Taman 308,Taman,-3.805705,102.253776,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2026-06-12,9297002,2
+AST-0309,Jalan 309,Jalan,-3.860743,102.310443,2024,2,Tidak Ada,Baik,2025-10-17,0,3
+AST-0310,Pohon 310,Pohon,-3.75779,102.287567,2005,21,Tidak Ada,Baik,2025-06-15,0,3
+AST-0311,Pohon 311,Pohon,-3.774588,102.275256,2016,10,Tidak Ada,Baik,2026-02-16,0,3
+AST-0312,Perpustakaan 312,Perpustakaan,-3.776538,102.275733,2019,7,Kerusakan Ringan,Perlu Pemeriksaan,2025-04-21,3379632,2
+AST-0313,Jalan 313,Jalan,-3.804963,102.213767,2013,13,Kerusakan Ringan,Perlu Pemeriksaan,2025-04-07,6478942,2
+AST-0314,Perpustakaan 314,Perpustakaan,-3.760835,102.225058,2015,11,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-08,3312527,2
+AST-0315,Perpustakaan 315,Perpustakaan,-3.756646,102.237743,1996,30,Kerusakan Sedang,Perlu Perbaikan,2026-01-16,9115733,1
+AST-0316,Pohon 316,Pohon,-3.747799,102.11827,1997,29,Tidak Ada,Baik,2025-02-17,0,3
+AST-0317,Taman 317,Taman,-3.807654,102.240149,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2026-02-11,11909418,2
+AST-0318,Jalan 318,Jalan,-3.784278,102.255873,2010,16,Kerusakan Berat,Prioritas Tinggi,2025-11-04,11387532,0
+AST-0319,Pohon 319,Pohon,-3.817495,102.256704,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-13,9502155,2
+AST-0320,Pohon 320,Pohon,-3.814532,102.254715,1992,34,Kerusakan Sedang,Perlu Perbaikan,2025-12-06,4024079,1
+AST-0321,Perpustakaan 321,Perpustakaan,-3.755834,102.270986,2013,13,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-04,7683457,2
+AST-0322,Drainase 322,Drainase,-3.797582,102.274261,2016,10,Tidak Ada,Baik,2026-01-26,0,3
+AST-0323,Taman 323,Taman,-3.806916,102.342089,2018,8,Kerusakan Berat,Prioritas Tinggi,2025-03-08,3532020,0
+AST-0324,Lampu Jalan 324,Lampu Jalan,-3.772856,102.268629,2017,9,Tidak Ada,Baik,2025-12-02,0,3
+AST-0325,Jalan 325,Jalan,-3.770052,102.303372,2022,4,Tidak Ada,Baik,2025-07-06,0,3
+AST-0326,Drainase 326,Drainase,-3.833943,102.231469,2007,19,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-12,7239667,2
+AST-0327,Taman 327,Taman,-3.829146,102.277281,2016,10,Tidak Ada,Baik,2025-05-07,0,3
+AST-0328,Jalan 328,Jalan,-3.767947,102.275579,1997,29,Tidak Ada,Baik,2025-10-22,0,3
+AST-0329,Perpustakaan 329,Perpustakaan,-3.776327,102.249867,2001,25,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-05,563581,2
+AST-0330,Drainase 330,Drainase,-3.809431,102.176248,1998,28,Tidak Ada,Baik,2025-05-07,0,3
+AST-0331,Taman 331,Taman,-3.746186,102.194386,2014,12,Kerusakan Sedang,Perlu Perbaikan,2026-05-09,10194061,1
+AST-0332,Perpustakaan 332,Perpustakaan,-3.80446,102.283694,2017,9,Tidak Ada,Baik,2026-01-22,0,3
+AST-0333,Taman 333,Taman,-3.886911,102.258827,2004,22,Kerusakan Ringan,Perlu Pemeriksaan,2025-11-03,9078431,2
+AST-0334,Lampu Jalan 334,Lampu Jalan,-3.835815,102.249184,2019,7,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-20,10545635,2
+AST-0335,Drainase 335,Drainase,-3.866364,102.22771,2021,5,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-17,8150592,2
+AST-0336,Jalan 336,Jalan,-3.748448,102.266008,2014,12,Kerusakan Berat,Prioritas Tinggi,2025-02-14,11030025,0
+AST-0337,Drainase 337,Drainase,-3.777265,102.290085,2011,15,Kerusakan Sedang,Perlu Perbaikan,2025-10-18,6907844,1
+AST-0338,Jalan 338,Jalan,-3.794658,102.354274,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2025-02-16,368053,2
+AST-0339,Lapangan Bermain 339,Lapangan Bermain,-3.904291,102.261128,1991,35,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-03,7527510,2
+AST-0340,Lapangan Bermain 340,Lapangan Bermain,-3.866476,102.253197,2019,7,Kerusakan Sedang,Perlu Perbaikan,2025-04-10,3243540,1
+AST-0341,Lapangan Bermain 341,Lapangan Bermain,-3.806783,102.275563,1991,35,Tidak Ada,Baik,2025-04-19,0,3
+AST-0342,Lapangan Bermain 342,Lapangan Bermain,-3.880109,102.320135,2019,7,Kerusakan Sedang,Perlu Perbaikan,2026-08-16,8037770,1
+AST-0343,Pohon 343,Pohon,-3.757619,102.377141,1995,31,Tidak Ada,Baik,2025-12-01,0,3
+AST-0344,Lampu Jalan 344,Lampu Jalan,-3.804633,102.290189,2000,26,Tidak Ada,Baik,2026-01-09,0,3
+AST-0345,Drainase 345,Drainase,-3.80644,102.190703,1995,31,Tidak Ada,Baik,2025-06-01,0,3
+AST-0346,Jalan 346,Jalan,-3.802853,102.26372,2015,11,Tidak Ada,Baik,2026-01-09,0,3
+AST-0347,Jalan 347,Jalan,-3.842757,102.205946,2004,22,Kerusakan Berat,Prioritas Tinggi,2026-05-04,2389751,0
+AST-0348,Pohon 348,Pohon,-3.846942,102.214575,1993,33,Tidak Ada,Baik,2026-01-02,0,3
+AST-0349,Pohon 349,Pohon,-3.885439,102.352868,2012,14,Tidak Ada,Baik,2025-12-02,0,3
+AST-0350,Drainase 350,Drainase,-3.798944,102.245392,2007,19,Kerusakan Sedang,Perlu Perbaikan,2025-07-26,11489451,1
+AST-0351,Pohon 351,Pohon,-3.781718,102.227168,1995,31,Kerusakan Sedang,Perlu Perbaikan,2025-11-07,6257386,1
+AST-0352,Drainase 352,Drainase,-3.810692,102.331255,2024,2,Kerusakan Ringan,Perlu Pemeriksaan,2025-11-25,11374371,2
+AST-0353,Pohon 353,Pohon,-3.812714,102.26688,2004,22,Kerusakan Sedang,Perlu Perbaikan,2025-08-22,1555562,1
+AST-0354,Jalan 354,Jalan,-3.842304,102.206572,2000,26,Tidak Ada,Baik,2025-08-08,0,3
+AST-0355,Pohon 355,Pohon,-3.788719,102.266137,2024,2,Kerusakan Sedang,Perlu Perbaikan,2025-09-06,4629861,1
+AST-0356,Lampu Jalan 356,Lampu Jalan,-3.910313,102.193613,2019,7,Tidak Ada,Baik,2026-06-30,0,3
+AST-0357,Taman 357,Taman,-3.8497,102.220429,1994,32,Tidak Ada,Baik,2026-06-07,0,3
+AST-0358,Jalan 358,Jalan,-3.829629,102.27268,2011,15,Kerusakan Berat,Prioritas Tinggi,2025-01-15,3389431,0
+AST-0359,Taman 359,Taman,-3.822882,102.136262,2008,18,Kerusakan Berat,Prioritas Tinggi,2026-01-29,5112218,0
+AST-0360,Jalan 360,Jalan,-3.790194,102.299132,2010,16,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-20,11519148,2
+AST-0361,Lampu Jalan 361,Lampu Jalan,-3.808658,102.276199,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-09,3101102,2
+AST-0362,Pohon 362,Pohon,-3.793004,102.305532,2024,2,Kerusakan Sedang,Perlu Perbaikan,2025-07-19,7895638,1
+AST-0363,Drainase 363,Drainase,-3.74394,102.244139,2013,13,Kerusakan Ringan,Perlu Pemeriksaan,2025-08-18,6351826,2
+AST-0364,Drainase 364,Drainase,-3.738255,102.284758,1994,32,Kerusakan Ringan,Perlu Pemeriksaan,2025-04-26,3903126,2
+AST-0365,Lapangan Bermain 365,Lapangan Bermain,-3.770858,102.214474,1999,27,Tidak Ada,Baik,2026-03-07,0,3
+AST-0366,Taman 366,Taman,-3.743813,102.217735,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-15,6739541,2
+AST-0367,Perpustakaan 367,Perpustakaan,-3.722166,102.268985,2022,4,Tidak Ada,Baik,2026-08-10,0,3
+AST-0368,Pohon 368,Pohon,-3.783331,102.265234,2004,22,Tidak Ada,Baik,2025-01-17,0,3
+AST-0369,Lapangan Bermain 369,Lapangan Bermain,-3.862924,102.263441,2002,24,Tidak Ada,Baik,2025-03-02,0,3
+AST-0370,Pohon 370,Pohon,-3.754762,102.331364,2017,9,Kerusakan Sedang,Perlu Perbaikan,2026-01-25,1269721,1
+AST-0371,Taman 371,Taman,-3.844771,102.250293,2006,20,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-18,2818082,2
+AST-0372,Pohon 372,Pohon,-3.716217,102.28641,2005,21,Kerusakan Sedang,Perlu Perbaikan,2025-11-17,5590688,1
+AST-0373,Perpustakaan 373,Perpustakaan,-3.722373,102.281171,2013,13,Kerusakan Sedang,Perlu Perbaikan,2025-06-26,9778689,1
+AST-0374,Jalan 374,Jalan,-3.82332,102.271906,1996,30,Tidak Ada,Baik,2025-02-03,0,3
+AST-0375,Lapangan Bermain 375,Lapangan Bermain,-3.84949,102.284611,1997,29,Kerusakan Berat,Prioritas Tinggi,2025-06-25,11070846,0
+AST-0376,Pohon 376,Pohon,-3.83099,102.177534,2019,7,Kerusakan Sedang,Perlu Perbaikan,2025-01-12,285449,1
+AST-0377,Perpustakaan 377,Perpustakaan,-3.802929,102.236365,2021,5,Tidak Ada,Baik,2025-10-18,0,3
+AST-0378,Taman 378,Taman,-3.742343,102.319113,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2025-07-18,2259192,2
+AST-0379,Pohon 379,Pohon,-3.855594,102.249399,2007,19,Tidak Ada,Baik,2025-08-05,0,3
+AST-0380,Lampu Jalan 380,Lampu Jalan,-3.760314,102.298906,2007,19,Tidak Ada,Baik,2026-06-14,0,3
+AST-0381,Pohon 381,Pohon,-3.893135,102.287616,2010,16,Tidak Ada,Baik,2025-06-22,0,3
+AST-0382,Jalan 382,Jalan,-3.745384,102.11206,2022,4,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-15,7187851,2
+AST-0383,Jalan 383,Jalan,-3.802788,102.198625,2009,17,Tidak Ada,Baik,2026-02-17,0,3
+AST-0384,Pohon 384,Pohon,-3.791012,102.23082,2005,21,Kerusakan Berat,Prioritas Tinggi,2026-02-22,8761690,0
+AST-0385,Jalan 385,Jalan,-3.804776,102.230045,1996,30,Kerusakan Berat,Prioritas Tinggi,2025-06-25,7251406,0
+AST-0386,Taman 386,Taman,-3.757892,102.241625,1991,35,Tidak Ada,Baik,2026-07-20,0,3
+AST-0387,Taman 387,Taman,-3.783291,102.242462,2014,12,Kerusakan Sedang,Perlu Perbaikan,2026-03-20,6415455,1
+AST-0388,Lapangan Bermain 388,Lapangan Bermain,-3.724043,102.223326,1997,29,Kerusakan Ringan,Perlu Pemeriksaan,2026-05-16,7925106,2
+AST-0389,Lampu Jalan 389,Lampu Jalan,-3.879931,102.230725,2024,2,Tidak Ada,Baik,2025-08-23,0,3
+AST-0390,Pohon 390,Pohon,-3.840728,102.166399,2007,19,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-22,9761238,2
+AST-0391,Drainase 391,Drainase,-3.860571,102.360811,2012,14,Tidak Ada,Baik,2026-06-22,0,3
+AST-0392,Taman 392,Taman,-3.7677,102.333334,2018,8,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-22,10166504,2
+AST-0393,Lampu Jalan 393,Lampu Jalan,-3.875941,102.307593,2013,13,Kerusakan Sedang,Perlu Perbaikan,2026-08-28,3750457,1
+AST-0394,Taman 394,Taman,-3.690604,102.259652,2022,4,Tidak Ada,Baik,2026-06-13,0,3
+AST-0395,Lampu Jalan 395,Lampu Jalan,-3.795868,102.218289,2011,15,Tidak Ada,Baik,2026-04-16,0,3
+AST-0396,Lampu Jalan 396,Lampu Jalan,-3.745014,102.385546,1995,31,Tidak Ada,Baik,2025-10-13,0,3
+AST-0397,Taman 397,Taman,-3.843485,102.216664,2025,1,Tidak Ada,Baik,2025-08-12,0,3
+AST-0398,Perpustakaan 398,Perpustakaan,-3.791165,102.335237,2000,26,Tidak Ada,Baik,2025-12-04,0,3
+AST-0399,Lampu Jalan 399,Lampu Jalan,-3.771909,102.279163,2008,18,Kerusakan Sedang,Perlu Perbaikan,2026-01-20,4481905,1
+AST-0400,Lampu Jalan 400,Lampu Jalan,-3.831785,102.218136,1999,27,Tidak Ada,Baik,2025-05-24,0,3
+AST-0401,Pohon 401,Pohon,-3.810249,102.222862,2008,18,Kerusakan Sedang,Perlu Perbaikan,2026-05-12,9797359,1
+AST-0402,Taman 402,Taman,-3.729918,102.242637,2009,17,Tidak Ada,Baik,2026-04-28,0,3
+AST-0403,Taman 403,Taman,-3.743012,102.232414,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2025-08-19,3831200,2
+AST-0404,Pohon 404,Pohon,-3.773947,102.19292,2024,2,Kerusakan Sedang,Perlu Perbaikan,2026-06-18,1987470,1
+AST-0405,Pohon 405,Pohon,-3.711289,102.284823,2004,22,Kerusakan Berat,Prioritas Tinggi,2025-12-15,10133033,0
+AST-0406,Lampu Jalan 406,Lampu Jalan,-3.887561,102.217691,2005,21,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-28,2107140,2
+AST-0407,Taman 407,Taman,-3.786894,102.301727,2009,17,Tidak Ada,Baik,2025-03-21,0,3
+AST-0408,Drainase 408,Drainase,-3.817162,102.254661,2008,18,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-14,9869680,2
+AST-0409,Pohon 409,Pohon,-3.735932,102.270694,2023,3,Tidak Ada,Baik,2025-11-07,0,3
+AST-0410,Drainase 410,Drainase,-3.750056,102.269361,2024,2,Tidak Ada,Baik,2026-06-05,0,3
+AST-0411,Pohon 411,Pohon,-3.747375,102.244178,1996,30,Tidak Ada,Baik,2025-09-20,0,3
+AST-0412,Perpustakaan 412,Perpustakaan,-3.82686,102.25868,2012,14,Tidak Ada,Baik,2025-12-01,0,3
+AST-0413,Lapangan Bermain 413,Lapangan Bermain,-3.77473,102.2722,2012,14,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-26,8399710,2
+AST-0414,Lampu Jalan 414,Lampu Jalan,-3.751389,102.379038,2003,23,Kerusakan Ringan,Perlu Pemeriksaan,2026-07-08,1783976,2
+AST-0415,Taman 415,Taman,-3.741621,102.199238,2004,22,Kerusakan Berat,Prioritas Tinggi,2025-05-25,9489308,0
+AST-0416,Pohon 416,Pohon,-3.841688,102.228353,2021,5,Tidak Ada,Baik,2025-10-23,0,3
+AST-0417,Drainase 417,Drainase,-3.830746,102.244073,2008,18,Kerusakan Sedang,Perlu Perbaikan,2025-03-18,11517927,1
+AST-0418,Jalan 418,Jalan,-3.788966,102.200428,2016,10,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-30,1256049,2
+AST-0419,Pohon 419,Pohon,-3.737231,102.196595,2008,18,Kerusakan Berat,Prioritas Tinggi,2025-02-26,2071123,0
+AST-0420,Jalan 420,Jalan,-3.772087,102.185511,2018,8,Kerusakan Berat,Prioritas Tinggi,2025-06-08,4018350,0
+AST-0421,Pohon 421,Pohon,-3.738089,102.259789,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2025-01-14,2190623,2
+AST-0422,Jalan 422,Jalan,-3.887861,102.235795,2000,26,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-14,6669662,2
+AST-0423,Lampu Jalan 423,Lampu Jalan,-3.812224,102.270884,2013,13,Kerusakan Sedang,Perlu Perbaikan,2025-03-13,1004760,1
+AST-0424,Drainase 424,Drainase,-3.777552,102.190983,2012,14,Tidak Ada,Baik,2025-11-29,0,3
+AST-0425,Taman 425,Taman,-3.787869,102.21774,2011,15,Kerusakan Sedang,Perlu Perbaikan,2026-09-14,4142732,1
+AST-0426,Pohon 426,Pohon,-3.885109,102.307835,2003,23,Kerusakan Sedang,Perlu Perbaikan,2025-12-31,10572688,1
+AST-0427,Taman 427,Taman,-3.75046,102.299765,2017,9,Kerusakan Sedang,Perlu Perbaikan,2025-04-22,9536161,1
+AST-0428,Pohon 428,Pohon,-3.78446,102.184185,2012,14,Tidak Ada,Baik,2025-05-31,0,3
+AST-0429,Lapangan Bermain 429,Lapangan Bermain,-3.820993,102.303385,2002,24,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-05,10904831,2
+AST-0430,Perpustakaan 430,Perpustakaan,-3.746101,102.234572,2011,15,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-15,4342136,2
+AST-0431,Lampu Jalan 431,Lampu Jalan,-3.877817,102.206543,2006,20,Tidak Ada,Baik,2026-09-25,0,3
+AST-0432,Pohon 432,Pohon,-3.82301,102.298222,2021,5,Kerusakan Sedang,Perlu Perbaikan,2025-09-11,5407092,1
+AST-0433,Pohon 433,Pohon,-3.760218,102.306724,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-14,2016049,2
+AST-0434,Lapangan Bermain 434,Lapangan Bermain,-3.78308,102.137131,2010,16,Kerusakan Ringan,Perlu Pemeriksaan,2026-03-08,2752669,2
+AST-0435,Pohon 435,Pohon,-3.810111,102.304746,2023,3,Tidak Ada,Baik,2026-07-07,0,3
+AST-0436,Pohon 436,Pohon,-3.80692,102.23641,1991,35,Tidak Ada,Baik,2025-02-08,0,3
+AST-0437,Drainase 437,Drainase,-3.810509,102.234987,2013,13,Kerusakan Sedang,Perlu Perbaikan,2025-06-18,1022973,1
+AST-0438,Taman 438,Taman,-3.760974,102.242374,1999,27,Kerusakan Sedang,Perlu Perbaikan,2026-04-24,6395817,1
+AST-0439,Jalan 439,Jalan,-3.813694,102.314347,2005,21,Tidak Ada,Baik,2026-09-03,0,3
+AST-0440,Jalan 440,Jalan,-3.769493,102.323496,2001,25,Kerusakan Ringan,Perlu Pemeriksaan,2025-07-02,7606043,2
+AST-0441,Lampu Jalan 441,Lampu Jalan,-3.893918,102.277087,2012,14,Tidak Ada,Baik,2025-10-10,0,3
+AST-0442,Jalan 442,Jalan,-3.744676,102.299008,1997,29,Tidak Ada,Baik,2025-06-15,0,3
+AST-0443,Drainase 443,Drainase,-3.69013,102.366195,1992,34,Tidak Ada,Baik,2026-02-28,0,3
+AST-0444,Jalan 444,Jalan,-3.777516,102.258642,2023,3,Kerusakan Sedang,Perlu Perbaikan,2026-06-03,10512201,1
+AST-0445,Taman 445,Taman,-3.803894,102.2089,1992,34,Kerusakan Sedang,Perlu Perbaikan,2025-07-24,5563371,1
+AST-0446,Pohon 446,Pohon,-3.824078,102.285677,1998,28,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-08,10733791,2
+AST-0447,Drainase 447,Drainase,-3.76851,102.294649,2021,5,Tidak Ada,Baik,2025-05-13,0,3
+AST-0448,Pohon 448,Pohon,-3.829258,102.251669,1998,28,Tidak Ada,Baik,2025-10-31,0,3
+AST-0449,Lampu Jalan 449,Lampu Jalan,-3.836843,102.250012,2022,4,Tidak Ada,Baik,2025-05-07,0,3
+AST-0450,Lampu Jalan 450,Lampu Jalan,-3.895801,102.366801,2002,24,Kerusakan Berat,Prioritas Tinggi,2026-06-05,1147431,0
+AST-0451,Lapangan Bermain 451,Lapangan Bermain,-3.789083,102.246824,2018,8,Tidak Ada,Baik,2025-06-01,0,3
+AST-0452,Pohon 452,Pohon,-3.813087,102.215137,1993,33,Tidak Ada,Baik,2026-07-07,0,3
+AST-0453,Pohon 453,Pohon,-3.810619,102.125767,2012,14,Kerusakan Berat,Prioritas Tinggi,2025-12-17,5589961,0
+AST-0454,Lampu Jalan 454,Lampu Jalan,-3.800104,102.300716,2023,3,Kerusakan Berat,Prioritas Tinggi,2026-05-15,3402585,0
+AST-0455,Taman 455,Taman,-3.831865,102.323438,1993,33,Kerusakan Ringan,Perlu Pemeriksaan,2025-12-26,1623264,2
+AST-0456,Pohon 456,Pohon,-3.791569,102.201519,2022,4,Tidak Ada,Baik,2025-08-15,0,3
+AST-0457,Perpustakaan 457,Perpustakaan,-3.848596,102.289075,1993,33,Tidak Ada,Baik,2026-03-22,0,3
+AST-0458,Drainase 458,Drainase,-3.805193,102.243158,1993,33,Kerusakan Ringan,Perlu Pemeriksaan,2026-04-26,1359852,2
+AST-0459,Pohon 459,Pohon,-3.812664,102.263449,2021,5,Tidak Ada,Baik,2025-09-13,0,3
+AST-0460,Pohon 460,Pohon,-3.876873,102.230859,2011,15,Tidak Ada,Baik,2026-05-19,0,3
+AST-0461,Perpustakaan 461,Perpustakaan,-3.854539,102.259758,2020,6,Kerusakan Berat,Prioritas Tinggi,2025-03-28,3905995,0
+AST-0462,Jalan 462,Jalan,-3.826662,102.303585,1992,34,Tidak Ada,Baik,2025-02-03,0,3
+AST-0463,Lapangan Bermain 463,Lapangan Bermain,-3.825309,102.23502,2018,8,Tidak Ada,Baik,2026-02-01,0,3
+AST-0464,Jalan 464,Jalan,-3.788336,102.226657,2009,17,Tidak Ada,Baik,2025-03-05,0,3
+AST-0465,Pohon 465,Pohon,-3.818225,102.210201,1995,31,Tidak Ada,Baik,2025-03-12,0,3
+AST-0466,Pohon 466,Pohon,-3.802302,102.316766,2010,16,Tidak Ada,Baik,2025-05-25,0,3
+AST-0467,Jalan 467,Jalan,-3.818397,102.218996,1996,30,Kerusakan Berat,Prioritas Tinggi,2026-08-26,3511008,0
+AST-0468,Lampu Jalan 468,Lampu Jalan,-3.916556,102.2917,1997,29,Kerusakan Berat,Prioritas Tinggi,2026-07-02,7877357,0
+AST-0469,Pohon 469,Pohon,-3.805553,102.198552,2011,15,Kerusakan Berat,Prioritas Tinggi,2026-04-30,1597848,0
+AST-0470,Taman 470,Taman,-3.837898,102.154309,2009,17,Tidak Ada,Baik,2026-09-15,0,3
+AST-0471,Jalan 471,Jalan,-3.807193,102.232667,2012,14,Kerusakan Berat,Prioritas Tinggi,2026-01-01,2892355,0
+AST-0472,Lampu Jalan 472,Lampu Jalan,-3.834474,102.272389,2019,7,Kerusakan Berat,Prioritas Tinggi,2025-04-04,6048967,0
+AST-0473,Pohon 473,Pohon,-3.770495,102.314783,2003,23,Tidak Ada,Baik,2025-03-12,0,3
+AST-0474,Perpustakaan 474,Perpustakaan,-3.802066,102.300419,2010,16,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-19,11183214,2
+AST-0475,Taman 475,Taman,-3.768128,102.276768,2000,26,Kerusakan Ringan,Perlu Pemeriksaan,2025-10-28,3895517,2
+AST-0476,Drainase 476,Drainase,-3.764837,102.136416,2018,8,Tidak Ada,Baik,2025-10-18,0,3
+AST-0477,Drainase 477,Drainase,-3.825499,102.284758,2011,15,Kerusakan Sedang,Perlu Perbaikan,2025-04-08,8624382,1
+AST-0478,Perpustakaan 478,Perpustakaan,-3.763313,102.187035,1994,32,Kerusakan Ringan,Perlu Pemeriksaan,2025-06-06,559911,2
+AST-0479,Taman 479,Taman,-3.789707,102.225978,1992,34,Tidak Ada,Baik,2026-09-18,0,3
+AST-0480,Perpustakaan 480,Perpustakaan,-3.847608,102.349951,1996,30,Kerusakan Sedang,Perlu Perbaikan,2025-08-12,4047868,1
+AST-0481,Pohon 481,Pohon,-3.805219,102.310831,2003,23,Kerusakan Ringan,Perlu Pemeriksaan,2025-09-23,3860550,2
+AST-0482,Taman 482,Taman,-3.795767,102.2071,2021,5,Tidak Ada,Baik,2026-03-28,0,3
+AST-0483,Pohon 483,Pohon,-3.742854,102.243693,2008,18,Kerusakan Ringan,Perlu Pemeriksaan,2026-02-24,2809607,2
+AST-0484,Jalan 484,Jalan,-3.815685,102.300272,2013,13,Tidak Ada,Baik,2026-03-02,0,3
+AST-0485,Pohon 485,Pohon,-3.729311,102.253739,2018,8,Kerusakan Ringan,Perlu Pemeriksaan,2025-03-15,1963426,2
+AST-0486,Lapangan Bermain 486,Lapangan Bermain,-3.765355,102.250352,1997,29,Tidak Ada,Baik,2025-08-16,0,3
+AST-0487,Pohon 487,Pohon,-3.895142,102.205185,2007,19,Tidak Ada,Baik,2025-10-01,0,3
+AST-0488,Jalan 488,Jalan,-3.846601,102.287979,2025,1,Tidak Ada,Baik,2025-10-16,0,3
+AST-0489,Perpustakaan 489,Perpustakaan,-3.773605,102.294636,2023,3,Tidak Ada,Baik,2025-04-15,0,3
+AST-0490,Pohon 490,Pohon,-3.86549,102.221497,2025,1,Kerusakan Sedang,Perlu Perbaikan,2025-03-05,7552188,1
+AST-0491,Lampu Jalan 491,Lampu Jalan,-3.778572,102.160176,2005,21,Kerusakan Sedang,Perlu Perbaikan,2026-01-03,10912876,1
+AST-0492,Jalan 492,Jalan,-3.737782,102.351464,2019,7,Tidak Ada,Baik,2026-06-10,0,3
+AST-0493,Drainase 493,Drainase,-3.812067,102.226426,2014,12,Kerusakan Ringan,Perlu Pemeriksaan,2026-09-19,3601297,2
+AST-0494,Lampu Jalan 494,Lampu Jalan,-3.736654,102.282244,1993,33,Kerusakan Sedang,Perlu Perbaikan,2025-01-26,8477639,1
+AST-0495,Drainase 495,Drainase,-3.740423,102.218868,2018,8,Tidak Ada,Baik,2025-10-06,0,3
+AST-0496,Drainase 496,Drainase,-3.802535,102.224387,2009,17,Kerusakan Ringan,Perlu Pemeriksaan,2026-08-04,10811823,2
+AST-0497,Lampu Jalan 497,Lampu Jalan,-3.801501,102.309275,2014,12,Kerusakan Sedang,Perlu Perbaikan,2026-03-29,882705,1
+AST-0498,Taman 498,Taman,-3.791844,102.245805,2019,7,Kerusakan Ringan,Perlu Pemeriksaan,2025-05-25,9080911,2
+AST-0499,Pohon 499,Pohon,-3.77998,102.300109,1999,27,Kerusakan Berat,Prioritas Tinggi,2025-02-26,6449346,0
+AST-0500,Pohon 500,Pohon,-3.870086,102.301307,2018,8,Tidak Ada,Baik,2025-05-24,0,3
